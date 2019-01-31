@@ -6,6 +6,6 @@ In-game AI implemented by Minimax with alpha-beta pruning and also Monte Carlo T
 
 ![img1](https://github.com/arepirpi/vertexCoverRace/blob/master/img1.png)
 
-<img src="https://github.com/arepirpi/vertexCoverRace/blob/master/img1.png" width="100" height="100">
+<img src="https://github.com/arepirpi/vertexCoverRace/blob/master/img1.png" width="240" height="240">
 
 ![img2](https://github.com/arepirpi/vertexCoverRace/blob/master/img2.png)
