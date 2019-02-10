@@ -1,5 +1,5 @@
 # VertexCoverRace
-A demo Swift game about chess on graphs which is similar to Othello
+A demo Swift game about chess on graphs similar to Othello
 
 In-game AI are implemented by 
 1. Minimax with alpha-beta pruning 
